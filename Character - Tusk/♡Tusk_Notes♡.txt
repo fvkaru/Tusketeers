@@ -1,0 +1,31 @@
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+💠  Plume — Character
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+
+📁 Project: Tusketeers
+🎨 Type: Character Model (Stylized) + Room 1
+🧩 Software: Blender 5.2.1
+📦 Resources: Packed inside .blend file  
+📸 Renders: /Renders folder  
+🎨 Textures: /Textures folder  
+
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+🌈 Stats
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+
+🔹 Vertices: 72,227
+🔸 Edges: 148,604
+🔹 Faces: 72,121
+🔸 Triangles: 143,439
+
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+🌈 Notes
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+
+💖 This model was made with lots of love ♡  
+📦 All resources are packed inside the .blend file.  
+✨ Feel free to explore, render, or study the setup!  
+
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+
+Made by Fvkaru
