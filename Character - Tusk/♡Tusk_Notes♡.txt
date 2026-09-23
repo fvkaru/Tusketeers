@@ -1,31 +1,68 @@
-✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
-💠  Tusk — Character
-✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+✦ ───────────────────────────── ✦
 
-📁 Project: Tusketeers
-🎨 Type: Character Model (Stylized) + Room 1
-🧩 Software: Blender 5.2.1
-📦 Resources: Packed inside .blend file  
-📸 Renders: /Renders folder  
-🎨 Textures: /Textures folder  
+💠  Tusk & Fangs — Tusketeers
 
-✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
-🌈 Stats
-✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+✦ ───────────────────────────── ✦
 
-🔹 Vertices: 72,227
-🔸 Edges: 148,604
-🔹 Faces: 72,121
-🔸 Triangles: 143,439
+☕  MODEL STATS
 
-✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
-🌈 Notes
-✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+🔹 Vertices     1,873
 
-💖 This model was made with lots of love ♡  
-📦 All resources are packed inside the .blend file.  
-✨ Feel free to explore, render, or study the setup!  
+🔸 Edges        3,228
 
-✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+🔹 Faces        1,468
 
-Made by Fvkaru
+🔸 Triangles    2,914
+
+✦ ───────────────────────────── ✦
+
+☕  MOVEMENT ANIMATIONS
+
+🔹 Idle
+˚₊‧ Coming soon ‧₊˚
+
+🔸 Run
+˚₊‧ Coming soon ‧₊˚
+
+🔹 Jump
+˚₊‧ Coming soon ‧₊˚
+
+🔸 Fall
+˚₊‧ Coming soon ‧₊˚
+
+🔹 Land
+˚₊‧ Coming soon ‧₊˚
+
+🔸 Flying
+˚₊‧ Coming soon ‧₊˚
+
+🔹 Dash
+˚₊‧ Coming soon ‧₊˚
+
+✦ ───────────────────────────── ✦
+
+☕  COMBAT ANIMATIONS
+
+🔹 Poke n' Stuff
+˚₊‧ Basic 3 hit combo ‧₊˚
+˚₊‧ Coming soon ‧₊˚
+
+🔸 Red Hot Buckshot
+˚₊‧ Charged attack ‧₊˚
+˚₊‧ Coming soon ‧₊˚
+
+🔹 Jaw Breaker
+˚₊‧ Bite / Eat with Fangs ‧₊˚
+˚₊‧ Coming soon ‧₊˚
+
+🔸 Vice Versa
+˚₊‧ Throw Fangs ‧₊˚
+˚₊‧ Coming soon ‧₊˚
+
+🔹 Conqueror Wyrm
+˚₊‧ Steam breath ‧₊˚
+˚₊‧ Coming soon ‧₊˚
+
+✦ ───────────────────────────── ✦
+
+˚₊‧ Made by Fvkaru with lots of love ♡ ‧₊˚
